@@ -1,0 +1,105 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch AT3003B_UE2 (Debug)",
+			"request": "launch",
+			"program": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
+			"preLaunchTask": "AT3003B_UE2 Mac Debug Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2 (DebugGame)",
+			"request": "launch",
+			"program": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
+			"preLaunchTask": "AT3003B_UE2 Mac DebugGame Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2 (Development)",
+			"request": "launch",
+			"program": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
+			"preLaunchTask": "AT3003B_UE2 Mac Development Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2 (Test)",
+			"request": "launch",
+			"program": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
+			"preLaunchTask": "AT3003B_UE2 Mac Test Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2 (Shipping)",
+			"request": "launch",
+			"program": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
+			"preLaunchTask": "AT3003B_UE2 Mac Shipping Build",
+			"args": [
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2Editor (Debug)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor-Mac-Debug.app/Contents/MacOS/UnrealEditor-Mac-Debug",
+			"preLaunchTask": "AT3003B_UE2Editor Mac Debug Build",
+			"args": [
+				"/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/AT3003B_UE2.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2Editor (DebugGame)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor-Mac-DebugGame.app/Contents/MacOS/UnrealEditor-Mac-DebugGame",
+			"preLaunchTask": "AT3003B_UE2Editor Mac DebugGame Build",
+			"args": [
+				"/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/AT3003B_UE2.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Launch AT3003B_UE2Editor (Development)",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor.app/Contents/MacOS/UnrealEditor",
+			"preLaunchTask": "AT3003B_UE2Editor Mac Development Build",
+			"args": [
+				"/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/AT3003B_UE2.uproject"
+			],
+			"cwd": "/Users/Shared/Epic Games/UE_5.1",
+			"type": "lldb"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Build/BatchFiles/RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/AT3003B_UE2.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "internalConsole",
+			"internalConsoleOptions": "openOnSessionStart",
+			"stopAtEntry": false,
+			"cwd": "/Users/Shared/Epic Games/UE_5.1"
+		}
+	]
+}

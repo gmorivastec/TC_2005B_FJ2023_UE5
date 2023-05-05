@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.1",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AT3003B_UE2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

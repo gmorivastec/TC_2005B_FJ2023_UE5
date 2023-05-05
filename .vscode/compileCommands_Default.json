@@ -1,0 +1,106 @@
+[
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2.Build.cs",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2Character.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2Character.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2GameMode.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/AT3003B_UE2GameMode.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/ChequeoColision.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/ChequeoColision.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/Cubito.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/Cubito.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/Plataforma.cpp",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	},
+	{
+		"file": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/Source/AT3003B_UE2/Plataforma.h",
+		"arguments": [
+			"/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+			"@/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default/AT3003B_UE2.241.rsp"
+		],
+		"directory": "/Users/Shared/Epic Games/UE_5.1/Engine/Source"
+	}
+]

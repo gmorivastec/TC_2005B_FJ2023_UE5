@@ -1,0 +1,35 @@
+{
+    "configurations": [
+        {
+            "name": "AT3003B_UE2Editor Editor Mac Development (AT3003B_UE2)",
+            "compilerPath": "/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Applications/Xcode-14.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Applications/Xcode-14.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_AT3003B_UE2.json"
+        },
+        {
+            "name": "Mac",
+            "compilerPath": "/Applications/Xcode-14.2.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++",
+            "compilerArgs": [
+                "-isysroot",
+                "/Applications/Xcode-14.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk"
+            ],
+            "macFrameworkPath": [
+                "/Applications/Xcode-14.2.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk/System/Library/Frameworks"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "compileCommands": "/Users/grivas/work/ITESM/REFERENCIA/AT3003B_UE2 5.1/.vscode/compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
